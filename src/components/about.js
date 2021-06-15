@@ -25,7 +25,7 @@ export default class About extends Component {
                 <span className="block xl:inline text-blue-400">I'm Jishnu.</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mr-20 ">
-                I'm a pre-final year student who specializes in full-stack devlopment and problem solving.
+                I'm a pre-final year student who specializes in full-stack development and problem solving.
                 Currently I am interning at Capexmove to work on a decentralised sustainable 
                 finance system.
               </p>
