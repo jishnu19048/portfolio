@@ -1,5 +1,5 @@
 # Portfolio app
-Check it out: https://myportfolio-jishnu-app.herokuapp.com/
+Check it out: http://www.jishnu.ninja/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
