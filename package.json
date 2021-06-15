@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "npm": "5.7.1",
-    "node": "9.5.0"
+    "npm": "7.5.1",
+    "node": "15.8.0"
   },
   "dependencies": {
     "@headlessui/react": "^1.2.0",
