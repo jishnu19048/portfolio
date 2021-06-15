@@ -8,7 +8,7 @@ export default class Experience extends Component{
                     <div className="container px-5 py-24 mx-auto">
                     <div className="flex flex-col text-center w-full mb-20">
                         <h1 className="text-2xl font-medium title-font mb-4 text-gray-900 tracking-widest">MY WORK EXPERIENCE</h1>
-                        <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+                        <p className="lg:w-2/3 mx-auto leading-relaxed text-base">An overview of what I have been working on. Be sure to reach out to me if you wish to know more about my work.</p>
                     </div>
                     <div className="flex flex-wrap -m-2">
                         <div className="p-2 lg:w-1/3 md:w-1/2 w-full">

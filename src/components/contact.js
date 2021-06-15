@@ -92,7 +92,7 @@ export default class ContactMe extends Component {
                     <div className="col-span-2 text-right rounded-md shadow">
                         <a
                             onClick={this.handleSubmit}
-                            className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-600 md:py-2 md:text-lg md:px-10"
+                            className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-400 hover:bg-blue-500 md:py-2 md:text-lg md:px-10"
                         >
                             Send
                         </a>
