@@ -1,5 +1,5 @@
 # Portfolio app
-Check it out: http://www.jishnu.ninja/
+Check it out: https://drgoli.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
